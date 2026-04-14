@@ -1,0 +1,13 @@
+{
+  "zone_id": 3,
+  "solved": true,
+  "n_deliveries": 75,
+  "n_pickups": 35,
+  "total_dist_km": 114.39,
+  "n_vehicles": 2,
+  "hybrid_cost_R$": 271.59,
+  "separate_cost_R$": 391.12,
+  "saving_R$": 119.53,
+  "saving_pct": 30.6,
+  "strategy": "PATH_CHEAPEST_ARC + SIMULATED_ANNEALING"
+}

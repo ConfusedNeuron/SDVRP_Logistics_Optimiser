@@ -10,7 +10,7 @@ authors = [
   { name="BM60132 Optimization Group" },
 ]
 readme = "README.md"
-requires-python = ">=3.13"
+requires-python = ">=3.10"
 dependencies = [
     # Data
     "pandas>=2.0",
